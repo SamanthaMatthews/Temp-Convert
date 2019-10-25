@@ -1,6 +1,6 @@
 # Temp-Convert
 ## Purpose
-This program converts temperatures from Celsius to Fahrenheit and vice versa. It is used to help to user get a fast result if they needed to or out of curiousity. 
+This program converts temperatures from Celsius to Fahrenheit and vice versa. It is used to help to user get a fast result if they needed to or out of curiousity. I created this in a python class and I would consider myself a beginner when it comes to coding.
 ## Description
 This code was created using print statements for the menu, and conditional statements to execute the options. When the code is ran the user will be presented with a menu of options to choose from. They can choose option whether they would like to convert Celsius to Fahrenheit or the other way around. The menu should look like the following image.
 
