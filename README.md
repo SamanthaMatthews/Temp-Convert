@@ -5,15 +5,20 @@ This program converts temperatures from Celsius to Fahrenheit and vice versa. It
 This code was created using print statements for the menu, and conditional statements to execute the options. When the code is ran the user will be presented with a menu of options to choose from. They can choose option whether they would like to convert Celsius to Fahrenheit or the other way around. The menu should look like the following image.
 
 
+![](tempConvert.PNG)
+
+
 
 ###### Option 1
 If the user picks this option, the user will be asked to enter the temperature in Fahrenheit. The program will then take that input and store it in userTempInFahrenheit variable and subtract 32 from it. Then it will take that number and times it by 5/9. The program will then store that in another variable so that it can be printed out for the user to see. The code should execute and appear as shown in the following image.
 
-
+![](option1.PNG)
 
 
 ###### Option 2
 If the user picks this option, the user will be asked to enter the temperature in Celsius. The program will then take that input and store it in userTempInCelsius variable and multiply that by 9/5. Then it will add 32 to that value and store it in a new variable so it can be printed out for the user to see. The program should run option 2 like in the following image. 
+
+![](option2.PNG)
 
 
 ###### Option 3 
